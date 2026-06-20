@@ -3,12 +3,10 @@
 # A personal network scanner built to explore and understand computer networking concepts through practical development.
 
 # Purpose
-
-# The goal of this project is to create a custom network scanning tool capable of discovering devices on a local network, collecting information about them, and providing useful network insights.
+- The goal of this project is to create a custom network scanning tool capable of discovering devices on a local network, collecting information about them, and providing useful network insights.
 
 # This project serves as a learning platform for:
-
-# Network discovery techniques
+- Network discovery techniques
 - TCP/IP fundamentals
 - ARP and ICMP protocols
 - Port scanning
